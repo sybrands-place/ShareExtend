@@ -1,3 +1,8 @@
+## 2.1.0
+* upgrade agp to 8.1.3
+* add namespace
+* upgrade compileSdk to 34
+
 ## 2.0.0
 * support audio share
 * null safety support
